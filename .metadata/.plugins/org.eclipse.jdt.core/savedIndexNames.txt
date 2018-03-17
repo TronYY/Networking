@@ -1,0 +1,20 @@
+INDEX VERSION 1.127+E:\Computer\Java\Project\Networking\.metadata\.plugins\org.eclipse.jdt.core
+1946248595.index
+1665541264.index
+801603288.index
+2870341566.index
+3449984365.index
+3824985880.index
+399650276.index
+1313568564.index
+1635176752.index
+1953540017.index
+3349123533.index
+191921819.index
+2514483141.index
+3648356600.index
+3697250434.index
+3948674646.index
+1439913317.index
+409593780.index
+2586320517.index
